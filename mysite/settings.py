@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-x1&y_=6e+hhm_olvz7!7096(l8mm8wp!4y_^(#pjsantd6=zxe
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nobelfinance-ribbonprocess-8000.codio-box.uk']
+ALLOWED_HOSTS = ['nobelfinance-ribbonprocess-8000.codio-box.uk','https://gentle-refuge-41041.herokuapp.com/']
 
 
 # Application definition
